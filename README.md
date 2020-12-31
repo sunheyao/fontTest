@@ -1,6 +1,7 @@
 # fontTest
 This is the code to complete the coding challenge using Vue.js.
-*A json web service has been set up at the (http://agl-developer-test.azurewebsites.net/people.json)*
+A json web service has been set up at the 
+url: http://5c92dbfae7b1a00014078e61.mockapi.io/owners
 
 ## Installation
 
