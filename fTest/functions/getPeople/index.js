@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 module.exports = function (context, req) {    
-    axios.get('http://agl-developer-test.azurewebsites.net/people.json')
+    axios.get('http://5c92dbfae7b1a00014078e61.mockapi.io/owners')
         .then(response => {            
             
             context.res = {
